@@ -51,7 +51,6 @@ public class LoginServiceMockTest {
 		
 		
 		// hit actual dao method 
-		
 		Login ll3 = new Login();
 		ll3.setEmailid("admin@gmail.com");
 		ll3.setPassword("admin");
