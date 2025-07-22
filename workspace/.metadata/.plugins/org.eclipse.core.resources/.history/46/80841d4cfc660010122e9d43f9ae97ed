@@ -1,0 +1,17 @@
+package com.service;
+
+import com.bean.Login;
+import com.dao.LoginDao;
+
+public class LoginService {
+
+	LoginDao ld = new LoginDao();
+
+	public String signIn(Login login) {
+//		if(ld.checkLoginFromDb(login)) {
+//			return "successfully login";
+//		}else {
+//			return "failure try once again";
+//		}
+	}
+}

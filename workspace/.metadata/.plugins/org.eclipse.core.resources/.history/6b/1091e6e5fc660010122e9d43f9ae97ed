@@ -1,0 +1,53 @@
+package com.service;
+
+import static org.junit.Assert.*;
+import static org.mockito.Mockito.when;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnitRunner;
+
+import com.bean.Login;
+import com.dao.LoginDao;
+
+
+
+@RunWith(MockitoJUnitRunner.class)
+public class LoginServiceMockTest {
+	
+	@Mock
+	LoginDao loginDao;
+	
+	@InjectMocks
+	LoginService loginService;
+	
+	@Test
+	public void testSignIn() {
+		// success 
+		Login ll1 = new Login();
+		ll1.setEmailid("admin@gmail.com");
+		ll1.setPassword("admin@123");
+		// Fake or Mock 
+		when(loginService.signIn(ll1)).thenReturn("Successfully login");
+		
+		
+		// actual test 
+		String result1 = loginService.signIn(ll1);
+		assertEquals("Successfully login", result1);
+		
+		
+		Login ll2 = new Login();
+		ll2.setEmailid("admin@gmail.com");
+		ll2.setPassword("abcd");
+		// Fake or Mock 
+		when(loginService.signIn(ll2)).thenReturn("Failure try once again");
+		
+		
+		// actual test 
+		String result2 = loginService.signIn(ll2);
+		assertEquals("Failure try once again", result2);
+	}
+
+}

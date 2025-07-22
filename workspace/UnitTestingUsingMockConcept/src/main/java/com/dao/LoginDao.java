@@ -1,0 +1,12 @@
+package com.dao;
+
+import com.bean.Login;
+
+public class LoginDao {
+
+	public String checkLoginFromDb(Login login) {
+		// database logic to check emailid and password from database. 
+		// code is in complete 
+		return "database coding in process";
+	}
+}
