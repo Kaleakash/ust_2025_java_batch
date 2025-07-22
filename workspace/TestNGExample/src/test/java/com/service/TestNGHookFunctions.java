@@ -14,13 +14,12 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
-public class TestNGHookFuntions {
+public class TestNGHookFunctions {
   @Test
   public void firstTestMethod() {
 	  assertTrue(true);
 	  System.out.println("1st test method");
   }
-  
   @Test
   public void secondTestMethod() {
 	  assertFalse(false);

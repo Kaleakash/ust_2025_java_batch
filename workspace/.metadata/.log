@@ -2595,3 +2595,335 @@ java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\or
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:43:22.923
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:44:07.684
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:44:07.687
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:47:28.982
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51633 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--1272420320\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51633 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--1272420320\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:47:40.055
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51642 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-533221592\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51642 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-533221592\testng-customsuite.xml
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.110
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.111
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.112
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.113
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.116
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-07-22 19:47:44.117
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 4 0 2025-07-22 19:47:44.120
+!MESSAGE Error while getting URI 'platform:/plugin/org.springframework.beans/org/springframework/beans/factory/xml/spring-beans.dtd' from plugin 'org.springframework.ide.eclipse.beans.ui.editor' : /org/springframework/beans/factory/xml/spring-beans.dtd
+!STACK 0
+java.io.FileNotFoundException: /org/springframework/beans/factory/xml/spring-beans.dtd
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:55)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:186)
+	at java.base/java.net.URL.openConnection(URL.java:1258)
+	at org.eclipse.osgi.storage.url.BundleURLConverter.resolve(BundleURLConverter.java:64)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:301)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.resolve(PlatformURLConverter.java:53)
+	at org.eclipse.core.runtime.FileLocator.resolve(FileLocator.java:301)
+	at org.eclipse.wildwebdeveloper.xml.internal.ui.preferences.XMLCatalogs.resolveURI(XMLCatalogs.java:155)
+	at org.eclipse.wildwebdeveloper.xml.internal.ui.preferences.XMLCatalogs.lambda$3(XMLCatalogs.java:71)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:807)
+	at java.base/java.util.stream.ReferencePipeline$7$1FlatMap.accept(ReferencePipeline.java:294)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:636)
+	at org.eclipse.wildwebdeveloper.xml.internal.ui.preferences.XMLCatalogs.getWTPExtensionCatalog(XMLCatalogs.java:67)
+	at org.eclipse.wildwebdeveloper.xml.internal.ui.preferences.XMLCatalogs.getAllCatalogs(XMLCatalogs.java:52)
+	at org.eclipse.wildwebdeveloper.xml.internal.ui.preferences.XMLPreferenceServerConstants.storePreferencesToLemminxOptions(XMLPreferenceServerConstants.java:193)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.mergeCustomInitializationOptions(XMLLanguageServer.java:203)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getInitializationOptions(XMLLanguageServer.java:181)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:294)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1812)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1458)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2034)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:189)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:48:15.340
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:48:15.342
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:48:27.663
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51671 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51671 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:48:47.879
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:48:47.883
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:48:56.395
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51688 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51688 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:49:02.531
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:49:02.532
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:51:48.284
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:51:48.289
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:06.011
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:06.015
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:17.554
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:17.556
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:36.549
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:52:36.550
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:52:47.080
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51822 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-2015875811\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51822 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-2015875811\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:37.538
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:37.540
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:39.994
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:39.995
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:47.160
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:53:47.162
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:54:00.049
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:54:00.059
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:54:20.957
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51877 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--592616107\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51877 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--592616107\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:55:53.877
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:55:53.879
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:55:55.363
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51936 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--698483351\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 51936 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--698483351\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:57:25.387
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:57:25.391
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:57:53.622
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:57:53.624
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:57:56.102
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52007 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-637131678\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52007 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-637131678\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:58:17.901
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:58:17.905
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:58:18.442
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52024 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--1855040189\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52024 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--1855040189\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:58:29.273
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:58:29.276
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:58:44.018
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52042 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-1175288120\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52042 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-1175288120\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:59:11.180
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 19:59:11.182
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 19:59:12.252
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52063 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--2142001572\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52063 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse--2142001572\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:00:27.957
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:00:27.959
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:00:29.928
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52117 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-1170841344\testng-customsuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52117 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output C:\Users\akash\AppData\Local\Temp\testng-eclipse-1170841344\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:01:25.711
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:01:25.712
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:01:44.459
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:01:44.462
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:01:52.444
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52171 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52171 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:03:00.688
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-07-22 20:03:00.689
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:03:09.427
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52221 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52221 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:03:39.049
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52242 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52242 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:04:02.363
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52265 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52265 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:04:14.294
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52273 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52273 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2025-07-22 20:05:22.255
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52312 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml
+java -ea -classpath C:\Users\akash\eclipse\jee-2024-062\eclipse\configuration\org.eclipse.osgi\1053\0\.cp\lib\testng-remote.jar:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\test-classes:D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\target\classes:C:\Users\akash\.m2\repository\org\testng\testng\7.5\testng-7.5.jar:C:\Users\akash\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar:C:\Users\akash\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar:C:\Users\akash\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar:C:\Users\akash\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar org.testng.remote.RemoteTestNG -serport 52312 -protocol json -d D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\test-output D:\Desktop\UST 2025 Java Batch\workspace\TestNGExample\src\test\java\mySuite.xml

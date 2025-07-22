@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite parallel="false" name="Suite">
-  <test name="Test">
+<suite parallel="true" name="Suite">
+  
+  <test name="Test1">
     <classes>
       <class name="com.service.OperationServiceTest"/>
+      <class name="com.service.TestNGHookFunctions"/>
     </classes>
   </test> <!-- Test -->
+
+  <test name="Test2">
+    <classes>
+      <class name="com.service.TestPriorty"/>
+      <class name="com.service.EnableAndDisableTestCase"/>
+    </classes>
+  </test> <!-- Test -->  
+  
 </suite> <!-- Suite -->
