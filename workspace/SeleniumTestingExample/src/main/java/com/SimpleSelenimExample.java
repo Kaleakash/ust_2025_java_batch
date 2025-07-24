@@ -1,6 +1,8 @@
 package com;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SimpleSelenimExample {
@@ -16,6 +18,12 @@ public class SimpleSelenimExample {
 		String sourceCode = driver.getPageSource();
 		System.out.println(url);
 		System.out.println(title);
+		WebElement textAreaRef = driver.findElement(By.name("q"));
+		textAreaRef.sendKeys("What is selenium");
+		
+		WebElement submitButton = driver.findElement(By.name("btnK"));
+		submitButton.click();
+		
 		//System.out.println(sourceCode);
 		driver.quit();
 	}
