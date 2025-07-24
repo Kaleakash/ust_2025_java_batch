@@ -26,6 +26,7 @@ public class AutomationTest {
   
   @Test
   public void f() {
+	  //By.linkText("a")
 	  WebElement strongTagRef = driver.findElement(By.tagName("strong"));	// we get the reference of strong tag 
 	  String actualContent = strongTagRef.getText();			// get the content of that tag 
 	  //assertEquals(actualContent, "Welcome to your software automation practice website!");	// checking the content
