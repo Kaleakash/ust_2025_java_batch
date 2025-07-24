@@ -7,12 +7,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SimpleSelenimExample {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception{
 		// TODO Auto-generated method stub
 		// set driver in form of key-value pairs 
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();		// created the reference of browser. 
 		driver.get("http://www.google.com");	  // using driver open the google page. 
+		driver.manage().window().maximize();		// maximize the web page screen
 		String url = driver.getCurrentUrl();
 		String title = driver.getTitle();
 		String sourceCode = driver.getPageSource();
@@ -23,7 +24,11 @@ public class SimpleSelenimExample {
 		
 		WebElement submitButton = driver.findElement(By.name("btnK"));
 		submitButton.click();
-		
+		Thread.sleep(3000);
+		driver.navigate().back();
+		Thread.sleep(3000);
+		driver.navigate().forward();
+		Thread.sleep(3000);
 		//System.out.println(sourceCode);
 		driver.quit();
 	}
