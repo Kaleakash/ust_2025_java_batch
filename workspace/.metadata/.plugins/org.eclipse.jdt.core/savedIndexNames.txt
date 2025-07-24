@@ -1,13 +1,11 @@
 INDEX VERSION 1.134+D:\Desktop\UST 2025 Java Batch\workspace\.metadata\.plugins\org.eclipse.jdt.core
 3420260027.index
 2052481411.index
-4148695967.index
 782162605.index
 3825522155.index
 3504567100.index
 363009365.index
 3500246807.index
-2805801798.index
 3364788022.index
 3951121810.index
 1810308107.index
@@ -15,7 +13,6 @@ INDEX VERSION 1.134+D:\Desktop\UST 2025 Java Batch\workspace\.metadata\.plugins\
 3187265405.index
 886053508.index
 4088137264.index
-1725923916.index
 3843871365.index
 20131596.index
 1031729735.index
@@ -23,7 +20,6 @@ INDEX VERSION 1.134+D:\Desktop\UST 2025 Java Batch\workspace\.metadata\.plugins\
 3490073604.index
 3653769564.index
 760075105.index
-3356223876.index
 4209315282.index
 1104992161.index
 3148047240.index
@@ -33,7 +29,6 @@ INDEX VERSION 1.134+D:\Desktop\UST 2025 Java Batch\workspace\.metadata\.plugins\
 2096868594.index
 2323687267.index
 9872848.index
-83586746.index
 1729734625.index
 1439675160.index
 1087023362.index
