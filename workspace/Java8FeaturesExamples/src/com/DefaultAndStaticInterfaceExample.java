@@ -1,5 +1,6 @@
 package com;
 
+@FunctionalInterface
 interface Test {
 	void dis1();		// by default abstract and public 
 	default void dis2() {
@@ -11,6 +12,7 @@ interface Test {
 	static void dis4() {
 		System.out.println("dis4 static method");
 	}
+	//void dis5();
 }
 class TestImp implements Test{
 	public void dis1() {
